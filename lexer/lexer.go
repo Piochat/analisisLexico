@@ -7,7 +7,7 @@ import (
 	"log"
 )
 
-var Keywords = []string{"YANCARLOS", "PERNILLO", "CASTILLO", "1234121234"}
+var Keywords = []string{"YANCARLOS", "PERNILLO", "CASTILLO", "09051619260"}
 var Signs = []string{"\"", "'", "(", ")"}
 var Operators = []string{"+", "-", "*", "/", "%", "="}
 var Numbers = "1234567890"
